@@ -10,13 +10,11 @@ linfa = "0.7.1"
 ndarray = "0.15"
 ndarray-csv = "0.5"
 linfa-elasticnet = "0.7.1"
-qsar = "0.0.2"
 rayon = "1.11.0"
 smartcore = { version = "0.4.9"}
 linfa-linear = "0.7.1"
 rdkit = "0.4.12"
-rdkit-sys = "0.4.12"
-rdkit-ffi = "0.1.0"
-sdfrust = "0.6.0"
-rdkitcffi = { git = "https://github.com/chrissly31415/rdkitcffi", version = "0.2.1" }
-burn = { version = "0.19.1", features = ["train", "vision", "network", "cpu", "cuda", "ndarray", "wgpu", "dataset", "std", "autodiff", "fusion", "store", "metrics"] }
+#rdkit-sys = "0.4.12"
+#rdkit-ffi = "0.1.0"
+#sdfrust = "0.6.0"
+#rdkitcffi = { git = "https://github.com/chrissly31415/rdkitcffi", version = "0.2.1" }
